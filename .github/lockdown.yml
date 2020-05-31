@@ -1,0 +1,4 @@
+skipCreatedBefore: false
+lock: true
+close: true
+only: pulls
